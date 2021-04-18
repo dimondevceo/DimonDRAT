@@ -2,12 +2,14 @@
 name = "dimondrat"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["SegYT sasilisos69@gmail.com"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-tqdm = "^4.46"
-opencv-python = "^4.2.0"
+consultor = "^0.2.0"
+kivy = "^2.0.0"
+opencv-python = "^4.5.1"
+pyfiglet = "^0.8.post1"
 
 [tool.poetry.dev-dependencies]
 
