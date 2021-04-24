@@ -1,7 +1,6 @@
 socket
 pyfiglet
 os
-kivy
 subprocess
 sys
 opencv-python
