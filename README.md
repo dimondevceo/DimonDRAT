@@ -21,7 +21,7 @@
 5. Webcam Live Stream (Added)
 6. Quick setup (Can be done via WinRAR)
 7. Compile the client to DLL (Useless, so removed)
-8. Option to automatically inject it into any process (Removed, as you can build the py file into a system process, for example, svchost)
+8. Option to automatically inject it into any process (Removed, as you can build the py file into a similar system process, for example, svchost)
 9. Absolute stealth mode (You need to obfuscate the file test.py and absolutely no antivirus will detect it)
 
 Contact me on Discord if you have a problem or if you want to contribute with me to finish my software, support will be appreciated!
