@@ -10,7 +10,7 @@
 3. pip install -r requirements.txt
 4. chmod +x main.py
 5. ./main.py
-6. for the client you can play with packaging and convert it to an executable using py2exe or converting it directly to apk using kivy buildozer, see tutorials on how to conver to apk.
+6. for the client you can play with packaging and convert it to an executable using py2exe or converting it directly to apk using kivy buildozer, see tutorials on how to convert to apk.
 7. Enjoy the remote access!
 
 # Planning to add:
