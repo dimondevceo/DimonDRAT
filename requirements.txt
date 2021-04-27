@@ -4,3 +4,4 @@ os
 subprocess
 sys
 opencv-python
+pillow
