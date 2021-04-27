@@ -5,3 +5,6 @@ subprocess
 sys
 opencv-python
 pillow
+pickle
+struct
+numpy
