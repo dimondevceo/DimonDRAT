@@ -15,14 +15,14 @@
 # Planning to add:
 
 1. Reverse shell (Added)
-2. Download and Upload files (Added)
-3. Webcam Snap (Added)
-4. Remote desktop (Pending)
-5. Webcam Live Stream (Pending)
-6. Quick setup (Pending)
-7. Compile the client to DLL (Pending)
-8. Option to automatically inject it into any process (Pending)
-9. Absolute stealth mode (Pending)
+2. Download and Upload files (Added, but not an internal function. Can be done via powershell in Windows or in Linux with wget or curl. More info here: https://superuser.com/questions/25538/how-to-download-files-from-command-line-in-windows-like-wget-or-curl. Also you can upload and download using ftp. More information here: https://superuser.com/questions/253245/how-do-i-upload-files-using-the-command-line-on-windows)
+3. Webcam Snap (Removed)
+4. Remote desktop (Added)
+5. Webcam Live Stream (Added)
+6. Quick setup (Can be done via WinRAR)
+7. Compile the client to DLL (Useless, so removed)
+8. Option to automatically inject it into any process (Removed, as you can build the py file into a system process, for example, svchost)
+9. Absolute stealth mode (You need to obfuscate the file test.py and absolutely no antivirus will detect it)
 
 Contact me on Discord if you have a problem or if you want to contribute with me to finish my software, support will be appreciated!
 My Discord: SegYT#7665
