@@ -1,5 +1,5 @@
 # DimonDRAT
-### Description: I developed this piece of software only for educational purposes, I wanted to improve my coding skills and system remote administration.
+### Description: I developed this piece of software only for educational purposes, I wanted to improve my coding skills and system remote administration knowledge.
 # Installation:
 
 !NOTE! : To bypass antivirus obfuscate the client.py file!!!
